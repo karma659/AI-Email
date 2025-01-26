@@ -24,3 +24,6 @@ If the order cannot be fulfilled or is only partially fulfilled, explain the sit
 
 ### Step 3. Handled product inquiry
  Responded to product inquiries using relevant information from the product catalog.
+
+# OUTPUT
+https://docs.google.com/spreadsheets/d/1j6Ca-TIL76CNqeD3tUhQFroj1FLwZwXav5wHJiAPnE0/edit?gid=2006155750#gid=2006155750
